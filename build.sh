@@ -18,3 +18,7 @@ cp -f jxcore/out_android/android/bin/* jxcore-cordova/src/android/jxcore-binarie
 
 cd jxcore-cordova/src/android/jni
 $NDK_PATH/ndk-build
+
+
+# Create archive.
+tar czvf jxcore-cordova.tar.gz jxcore-cordova

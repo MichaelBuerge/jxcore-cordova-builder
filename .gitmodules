@@ -1,0 +1,6 @@
+[submodule "jxcore"]
+	path = jxcore
+	url = https://github.com/MichaelBuerge/jxcore.git
+[submodule "jxcore-cordova"]
+	path = jxcore-cordova
+	url = https://github.com/MichaelBuerge/jxcore-cordova.git
